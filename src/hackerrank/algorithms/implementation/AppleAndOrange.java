@@ -4,29 +4,32 @@ import java.util.Scanner;
 
 public class AppleAndOrange {
     //public class Solution{
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String time = sc.next();
-        if (time.endsWith("AM") && time.startsWith("12")) {
-            time = time.substring(2, time.length() - 2);
-            time = "00" + time;
-        } else if (time.endsWith("AM") || (time.endsWith("PM") && time.startsWith("12"))) {
-            time = time.substring(0, time.length() - 2);
-        } else {
-            time = time.substring(0, time.length() - 2);
-            char first = time.charAt(0);
-            char second = time.charAt(1);
-            int val = (first - 48) * 10 + (second - 48);
-            val = val + 12;
-            //System.out.println(val);
-            first = (char) ((val / 10) + 48);
-            second = (char) ((val % 10) + 48);
-            //System.out.println(first);
-            //System.out.println(second);
-            time = time.substring(2);
-            time = String.valueOf(first) + String.valueOf(second) + time;
+        int s = sc.nextInt();
+        int t = sc.nextInt();
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int m = sc.nextInt();
+        int n = sc.nextInt();
+        int d;
+        int apples = 0;
+        int oranges = 0;
+        for (int i = 0; i < m; i++) {
+            d = sc.nextInt();
+            if ((a + d) >= s && (a + d) <= t) {
+                apples++;
+            }
         }
-        System.out.println(time);
+        for (int i = 0; i < n; i++) {
+            d = sc.nextInt();
+            if ((b + d) >= s && (b + d) <= t) {
+                oranges++;
+            }
+        }
+        System.out.println(apples);
+        System.out.println(oranges);
         sc.close();
+
     }
 }
