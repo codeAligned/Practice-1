@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c4eac3b-e940-453e-afbd-f5009c4b4f5f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/CamelCase.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/HackerrankInAString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/Pangrams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/SuperReducedString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/CountingValleys.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DayOfTheProgrammer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/OrganizingContainersOfBalls.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/SeparateTheNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/hackerrank/algorithms/strings/WeightedUniformStrings.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="One.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/amazon/One.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Two.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/amazon/Two.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,12 +61,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pangrams.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pangrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/strings/Pangrams.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="24" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeightedUniformStrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/strings/WeightedUniformStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeparateTheNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/strings/SeparateTheNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DayOfTheProgrammer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DayOfTheProgrammer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrganizingContainersOfBalls.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/OrganizingContainersOfBalls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#529#538#0" expanded="true" />
+                <element signature="e#594#603#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingValleys.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/CountingValleys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#418#427#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,11 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hackerrank/algorithmsimplementation/BreakingTheRecords.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/implementation/BreakingTheRecords.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/implementation/CatsAndAMouse.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DrawingBook.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/MigratoryBirds.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/dynamicprogramming/TheMaximumSubarray.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/algorithms/bitmanipulation/MaximizingXOR.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/GradingStudents.java" />
@@ -153,6 +194,11 @@
         <option value="$PROJECT_DIR$/src/hackerrank/algorithms/strings/HackerrankInAString.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/algorithms/strings/Panagram.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/algorithms/strings/Panagrams.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/strings/WeightedUniformStrings.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/strings/SeparateTheNumbers.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DayOfTheProgrammer.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/OrganizingContainersOfBalls.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/algorithms/implementation/CountingValleys.java" />
       </list>
     </option>
   </component>
@@ -225,6 +271,13 @@
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -253,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pangrams">
+  <component name="RunManager" selected="Application.CountingValleys">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -261,14 +314,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HackerrankInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hackerrank.algorithms.strings.*" />
+          <option name="PATTERN" value="hackerrank.algorithms.implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.strings.HackerrankInAString" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.implementation.CountingValleys" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -280,14 +333,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DayOfTheProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="geeksforgeeks.amazon.*" />
+          <option name="PATTERN" value="hackerrank.algorithms.implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.amazon.One" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.implementation.DayOfTheProgrammer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -299,14 +352,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="Panagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OrganizingContainersOfBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hackerrank.algorithms.strings.*" />
+          <option name="PATTERN" value="hackerrank.algorithms.implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.strings.Panagrams" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.implementation.OrganizingContainersOfBalls" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -337,14 +390,14 @@
       <module name="Practice" />
       <envs />
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="WeightedUniformStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="geeksforgeeks.amazon.*" />
+          <option name="PATTERN" value="hackerrank.algorithms.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.amazon.Two" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.algorithms.strings.WeightedUniformStrings" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -431,19 +484,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.One" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Two" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HackerrankInAString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Panagrams" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Pangrams" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Pangrams" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WeightedUniformStrings" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DayOfTheProgrammer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OrganizingContainersOfBalls" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CountingValleys" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Pangrams" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Panagrams" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HackerrankInAString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Two" />
-        <item index="4" class="java.lang.String" itemvalue="Application.One" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountingValleys" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OrganizingContainersOfBalls" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DayOfTheProgrammer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WeightedUniformStrings" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Pangrams" />
       </list>
     </recent_temporary>
   </component>
@@ -509,35 +562,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/dynamicprogamming.java" />
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/warmup/CompareTheTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DrawingBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/MigratoryBirds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DivisibleSumPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/warmup/AVeryBigSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -861,6 +885,53 @@
         <state relative-caret-position="456">
           <caret line="24" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/strings/WeightedUniformStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/strings/SeparateTheNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/DayOfTheProgrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/OrganizingContainersOfBalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#529#538#0" expanded="true" />
+            <element signature="e#594#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/algorithms/implementation/CountingValleys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#418#427#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
