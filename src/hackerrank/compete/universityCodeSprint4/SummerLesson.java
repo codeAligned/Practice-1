@@ -1,4 +1,4 @@
-package hackerrank.algorithms.hackerrank.compete.universityCodeSprint4;
+package hackerrank.compete.universityCodeSprint4;
 
 // https://www.hackerrank.com/contests/university-codesprint-4/challenges/summer-lesson
 
